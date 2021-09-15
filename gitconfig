@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yaasir1997@gmail.com
+	name = mohammad yaasir cheekoory
