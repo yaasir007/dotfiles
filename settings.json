@@ -75,5 +75,7 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Palenight Theme"
 }
